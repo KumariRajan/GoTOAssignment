@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "54FC467A-7036-42ED-82E7-5F3D66012FED"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F86230D-5A3D-4CF9-8877-E849F41EEBCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitBrowser/GitBrowser/Model/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "fetchReadmeURL(from:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F2F3A92-67C2-43AD-B7CF-BC7DB72E536A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitBrowser/GitBrowser/Model/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "setupURLCache()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7F2F3A92-67C2-43AD-B7CF-BC7DB72E536A - b54f943dde840041"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static GitBrowser.NetworkManager.setupURLCache() -&gt; ()"
+                  moduleName = "GitBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t0191tj/Downloads/iOS-FastTrack-Assignment/GitBrowser/GitBrowser/Model/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "535">
+               </Location>
+               <Location
+                  uuid = "7F2F3A92-67C2-43AD-B7CF-BC7DB72E536A - b54f943dde840022"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static GitBrowser.NetworkManager.setupURLCache() -&gt; ()"
+                  moduleName = "GitBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t0191tj/Downloads/iOS-FastTrack-Assignment/GitBrowser/GitBrowser/Model/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "7F2F3A92-67C2-43AD-B7CF-BC7DB72E536A - b54f943dde840022"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static GitBrowser.NetworkManager.setupURLCache() -&gt; ()"
+                  moduleName = "GitBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t0191tj/Downloads/iOS-FastTrack-Assignment/GitBrowser/GitBrowser/Model/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "570">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26B99D05-B9D6-49C9-94F6-87BE1D4EF6CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitBrowser/GitBrowser/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

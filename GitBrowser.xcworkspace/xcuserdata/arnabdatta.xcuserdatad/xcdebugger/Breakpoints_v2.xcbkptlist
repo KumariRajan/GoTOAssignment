@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D891F71A-F816-4AD9-A923-05EF466036A7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AF8B994-7191-4320-A05D-A292691CD128"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitBrowser/GitBrowser/Model/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "avatarImage(for:avatarSourceURL:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1AF8B994-7191-4320-A05D-A292691CD128 - cd12bbe81849a7cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitBrowser.CacheManager.avatarImage(for: Swift.Int, avatarSourceURL: Foundation.URL, _: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "GitBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arnabdatta/Desktop/Gojek%20intervuiew/iOS-FastTrack-Assignment/GitBrowser/GitBrowser/Model/CacheManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "454">
+               </Location>
+               <Location
+                  uuid = "1AF8B994-7191-4320-A05D-A292691CD128 - 5826807ebd2c5926"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in GitBrowser.CacheManager.avatarImage(for: Swift.Int, avatarSourceURL: Foundation.URL, _: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "GitBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arnabdatta/Desktop/Gojek%20intervuiew/iOS-FastTrack-Assignment/GitBrowser/GitBrowser/Model/CacheManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "221B334D-5337-4D4B-9FE2-211992A5D026"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitBrowser/GitBrowser/Model/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "avatarImage(for:avatarSourceURL:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "994EB661-5AA6-403A-8A98-6AD14537E381"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitBrowser/GitBrowser/Model/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "avatarImage(for:avatarSourceURL:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
